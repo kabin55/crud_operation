@@ -65,13 +65,3 @@ router.delete("/:id", findId(), (req, res) => {
 });
 
 module.exports = router;
-
-// git init
-// git add .
-// git commit -m "commit on crud operation"
-// git remote add origin https://github.com/kabin55/crud_operation.git
-// git branch -M main
-// git push -u origin main
-
-// 77302A96
-// C53A-196F
